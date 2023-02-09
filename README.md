@@ -23,7 +23,8 @@
   
   
   ## Usage
-  LINK LINK
+  Video Usage Link
+  https://drive.google.com/file/d/1A79m0FvEQ4h17JKzbMXuGc1z31esANqN/view
   
   
   ## Contributions
